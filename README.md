@@ -2,7 +2,7 @@
 
 <p align="left">
   <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:your-s.tanushree1605@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   <img src="https://img.shields.io/badge/Focus-Applied%20AI%20%26%20Data%20Science-blue?style=flat-square" alt="Focus" />
   <img src="https://img.shields.io/badge/Location-Bengaluru%2C%20India-lightgrey?style=flat-square" alt="Location" />
 </p>
